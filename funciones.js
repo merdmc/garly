@@ -4,10 +4,6 @@ document.getElementById('boton2').onclick = function capturar() {
 }
 
 
-
-
-
-
 function mostrar(){
     document.getElementById('container').style.display = 'inline-block';
 
