@@ -125,7 +125,7 @@ body {
 }
       
 .bloque .icon i,
-.bloque .bloque_derecha .bloque_hobby ul li i {
+.bloque .bloque_derecha ul li i {
        position: absolute;
        top: 50%;
        left: 50%;
@@ -226,6 +226,11 @@ body {
         
  }
 
+/**
+A partir de este sector se incorporan elementos visuales y dinamismo a los botones 
+inferiores bajo el curriculum
+*/
+
 .container{
   color: #fff
   
@@ -283,7 +288,6 @@ h4 {
   from {background-color: #fff;}
   to {background-color: blue;}
   
-
  }
 
 
@@ -301,11 +305,7 @@ h4 {
     opacity: 0;
     transform: translate3d(0,70%,0);
    }
-
-
  }
-
- 
 
 
 
