@@ -1,5 +1,5 @@
 document.getElementById('boton2').onclick = function capturar() {
-    console.log("Capturar click de mostrar fuente");
+    console.log("Capturar click de boton con javascript");
 
 }
 
