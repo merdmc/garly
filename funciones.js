@@ -14,3 +14,7 @@ function ocultar(){
 
 }
 
+document.getElementById('fotoPerfil').onclick = function capturar() {
+    console.log("Click en foto de perfil");
+}
+

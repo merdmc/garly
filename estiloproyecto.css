@@ -74,6 +74,12 @@ body {
        justify-content: center;
        width: 70%;
        height: 70%;
+       
+}
+
+.bloque_profile img:hover{
+       -webkit-transform:scale(1.1);transform:scale(1.1);
+      
 }
  
       
