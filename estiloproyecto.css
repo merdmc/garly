@@ -25,24 +25,24 @@ body {
         
  }
  
-.semi-bold1 {
+#semi-bold1 {
        font-size: 20px;
  }
 
- .semi-bold2 {
+ #semi-bold2 {
        font-size: 20px;
  }
 
- .semi-bold3 {
+ #semi-bold3 {
        font-size: 20px;
  }
 
- .semi-bold4 {
+ #semi-bold4 {
        font-size: 20px;
  }
 
 
-.semi-bold {
+#semi-bold {
         font-weight: 500;
         font-size: 20px;
  }
@@ -52,7 +52,7 @@ body {
         height: auto;
         display: flex;
         margin: 50px auto;
-        box-shadow: 15px 15px 16px #787878;
+        box-shadow: 15px 15px 16px #363636;
 }
       
 .bloque .bloque_izquierda {
@@ -174,7 +174,7 @@ body {
        background: #fff;
 }
       
-.bloque .bloque_izquierda .bloque_redes .semi-bold {
+.bloque .bloque_izquierda .bloque_redes #semi-bold {
        color: #fff;
        margin-bottom: 3px;
         
@@ -315,28 +315,28 @@ h4 {
 
 
 
- .datos .semi-bold1:hover{
+ .datos #semi-bold1:hover{
      font-weight: bold;
      color: rgb(0, 162, 255);
      transition: color 1s;
 
  }
 
-.datos .semi-bold2:hover{
+.datos #semi-bold2:hover{
    font-weight: bold;
    color: rgb(255, 23, 236);
    transition: color 1s;
 
 }
 
-.datos .semi-bold3:hover{
+.datos #semi-bold3:hover{
    font-weight: bold;
    color: rgb(255, 23, 23);
    transition: color 1s;
 
 }
 
-.datos .semi-bold4:hover{
+.datos #semi-bold4:hover{
    font-weight: bold;
    color: rgb(55, 0, 253);
    transition: color 1s;
