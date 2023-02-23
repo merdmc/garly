@@ -10,10 +10,10 @@
 
 body {
     
-      background: #585c68;
+      background: rgba(88, 92, 104, 0.70);
       font-size: 14px;
       line-height: 22px;
-      color: #555555;
+      color: rgba(85, 85, 85, 0.70);
     
     }
 
@@ -57,7 +57,7 @@ body {
       
 .bloque .bloque_izquierda {
         width: 280px;
-        background: #bebebe;
+        background: rgba(190, 190, 190, 0.70);
         
 }
       
@@ -96,12 +96,12 @@ body {
 }
       
 .bloque .bloque_izquierda .regular {
-       color: #6b6b6b;
+       color: rgba(107, 107, 107, 0.70);
 }
       
 .bloque .bloque_item {
        padding: 25px 0;
-       border-bottom: 2px solid #6b6b6b;
+       border-bottom: 2px solid rgba(107, 107, 107, 0.70);
 }
       
 .bloque .bloque_izquierda .bloque_item:last-child,
@@ -122,8 +122,8 @@ body {
 .bloque .bloque_izquierda ul li .icon {
        width: 35px;
        height: 35px;
-       background: #fff;
-       color: grey;
+       background: rgba(255, 255, 255, 0.70);
+       color: rgba(128, 128, 128, 0.70);
        border-radius: 50%;
        margin-right: 15px;
        font-size: 16px;
@@ -182,7 +182,7 @@ body {
       
 .bloque .bloque_derecha {
        width: 520px;
-       background: #fff;
+       background: rgba(255, 255, 255, 0.70);
        padding: 25px;
     
 }
